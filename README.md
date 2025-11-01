@@ -16,4 +16,4 @@ The goal is to present a data-driven summary of how teams spent on players, iden
 -> Overseas players commanded higher average prices than Indian players.
 
 # Snapshot of Excel Dashboard
-<img src="ipl auction.PNG alt="ipl auction dashboard snapshot"/>
+<img src="ipl auction.PNG" alt="ipl auction dashboard snapshot"/>
